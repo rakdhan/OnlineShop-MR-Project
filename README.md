@@ -6,12 +6,6 @@ This app has :
 * RESTful endpoints for CRUD operation
 * JSON formatted response
 
-`environment variables:`
->> file .env values:
-> - PORT=
-> - SECRET_KEY=
-> - CLIENT_ID=
-
 `link deploy:`
 > - heroku : https://queen-ecommerce.herokuapp.com
 > - firebase :  https://cucciofficial-29e18.web.app (Client Site)
